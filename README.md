@@ -23,7 +23,7 @@
     that can be applied to the problem. In many cases, some of the subproblems will already have been solved by someone previously,
     and thanks to the internet, this information might be available to be found and accessed by anyone.
   - (Q) What are my ethical responsibilities to the end user and the organization?
-  - (A) As a software engineer, I have an ethical responsibility to ensure that software continues to work for the benefit
+  - (A) As a computer scientist and software engineer, I have an ethical responsibility to ensure that software continues to work for the benefit
     of humanity. In some cases, I may find myself in a position where the software I write can cause great harm if implemented
     incorrectly, which has happened many times in the past. I have a responsibility to maintain the privacy and security
     of the end-user and follow any applicable laws and regulations that may apply.
